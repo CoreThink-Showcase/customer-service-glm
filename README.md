@@ -1,5 +1,12 @@
 # AI Customer Support Agent
 
+## Prompt
+
+### "I want to build an AI customer support agent that answers common questions for an e-commerce store. Can you create a React + TypeScript frontend with a chat interface and basic ticket tracking?"
+
+<img width="1440" height="755" alt="image" src="https://github.com/user-attachments/assets/59b2ecea-2f3b-47bf-8590-9591eda09ec4" />
+
+
 A React + TypeScript customer support chat interface with AI-powered responses and ticket tracking for e-commerce stores.
 
 ## Features
