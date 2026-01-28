@@ -4,7 +4,7 @@ import { ChatInterface } from './components/ChatInterface';
 import { TicketList } from './components/TicketList';
 import { TicketDetail } from './components/TicketDetail';
 import { useAIResponse } from './hooks/useAIResponse';
-import { MessageSquare, X } from 'lucide-react';
+import { MessageSquare } from 'lucide-react';
 
 function App() {
   const [messages, setMessages] = useState<Message[]>([]);
